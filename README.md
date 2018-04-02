@@ -1,2 +1,2 @@
-# graphql
+# users
 GraphQL Demo
