@@ -1,0 +1,15 @@
+{
+  "users": [
+    {"id": "10", "firstName": "Akuma", "age": 45, "companyId": "1"},
+    {"id": "11", "firstName": "Ken", "age": 23, "companyId": "2"},
+    {"id": "12", "firstName": "Ryu", "age": 25, "companyId": "3"},
+    {"id": "13", "firstName": "Bison", "age": 48, "companyId": "4"},
+    {"id": "14", "firstName": "Vega", "age": 31, "companyId": "4"}
+  ],
+  "companies": [
+    {"id": "1", "name": "Lonely Ltd", "description": "The path to power"},
+    {"id": "2", "name": "Red Car Showroom", "description": "Finest collection of red cars"},
+    {"id": "3", "name": "Training Gym", "description": "Where warriors never skip leg day"},
+    {"id": "4", "name": "Army Base", "description": "World domination"}
+  ]
+}
